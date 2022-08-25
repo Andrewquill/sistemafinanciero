@@ -5,3 +5,5 @@ MinTIC 2022
 Integrantes:
 
 Paula Muñoz
+Alfonso Zapata
+
